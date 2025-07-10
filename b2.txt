@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 new file b2
-this is nishriti
+
+=======
+new file b2   
+file file file 
+>>>>>>> 6e4e636b9daca4ac12b85b3ad37943a9b1d811a4
