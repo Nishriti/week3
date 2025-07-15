@@ -1,6 +1,6 @@
-<h1> Description for Week 3 workshop </h1>
+<h1 style="color:red;"> Description for Week 3 workshop </h1>
 <br>
-<h2> Demo repo made to use merge and create branches </h2>
+<h2 style="color:blue;"> Demo repo made to use merge and create branches </h2>
  </br>
 <br>
 <p>Different branches for the same repo were made by two different people and the they were merges into the main page.
